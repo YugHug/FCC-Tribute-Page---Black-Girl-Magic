@@ -1,6 +1,7 @@
 # FCC-Tribute-Page---Black-Girl-Magic
-Coursework for Free Code Camp, Tribute Page
-
+<!--Coursework for Free Code Camp, Tribute Page-->
+<!DOCTYPE html>
+<html>
 <div class="box pink-box container-fluid">
   <h1 class="container-fluid injected-text"></h1>
 
@@ -53,6 +54,7 @@ Coursework for Free Code Camp, Tribute Page
               <div>
                 <i><h3 class="pquote container-fluid"><br> “As a black girl you grow up internalizing all these messages that say you shouldn't accept your hair or your skin tone or your natural features, or that you shouldn't have a voice, or that you aren't smart. I feel like the only way to fight that is to just be yourself on the most genuine level and to connect with other black girls.” <br><br>-Amandla Stenberg</i></h3>
 
+<style>
                 <div class="container-fluid">
                   <h3 class="text-center"><u>Black Girl Magic: Order of Events</u></h3>
                   <ul>
@@ -85,4 +87,6 @@ Coursework for Free Code Camp, Tribute Page
                     <div class="footer smallbox container-fluid">
                       <p style="text-center; color: black;"><br>Written and Coded by <a href="#">J.Yugen</a><br>©2016</p>
                     </div>
+    </style>
 </body>
+</html>
