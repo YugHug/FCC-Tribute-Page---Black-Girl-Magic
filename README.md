@@ -2,6 +2,8 @@
 Coursework for Free Code Camp, Tribute Page
 
 /* this is called media queries */
+
+<style>
 @media (max-width: 800px) {
 #page-title {
 font-size: 1em;
@@ -138,4 +140,4 @@ footer {
   margin-right: 30px;
   margin-left: 30px;
 }
-
+</style>
