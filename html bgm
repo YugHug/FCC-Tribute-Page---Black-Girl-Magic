@@ -1,5 +1,8 @@
 # FCC-Tribute-Page---Black-Girl-Magic
 <!--Coursework for Free Code Camp, Tribute Page-->
+git fetch origin
+git checkout -b html-bgm origin/html-bgm
+git merge master
 <!DOCTYPE html>
 <html>
 <div class="box pink-box container-fluid">
