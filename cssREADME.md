@@ -4,6 +4,7 @@ Coursework for Free Code Camp, Tribute Page
 /* this is called media queries */
 
 <style>
+  
 @media (max-width: 800px) {
 #page-title {
 font-size: 1em;
